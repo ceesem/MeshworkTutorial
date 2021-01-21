@@ -6,5 +6,4 @@ The MeshWork interface is under active development, and the line between clumsy 
 
 Get in touch if you have questions/suggestions, or use the github issues page over on MeshParty.
 
--Casey
-caseys@alleninstitute.org
+Casey Schneider-Mizell
